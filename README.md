@@ -1,2 +1,2 @@
 # msgbroker-go
-Projeto sandbox para testar o rabbitmq com golang
+Poc para testar o rabbitmq com golang
